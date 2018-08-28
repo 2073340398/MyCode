@@ -5,3 +5,5 @@
 ## 打开git bash生成key  gpg --gen-key
 
 ## [配置](http://www.cnblogs.com/xueweihan/p/5430451.html)
+
+## 提交语法 git commit -S -m "Message"
